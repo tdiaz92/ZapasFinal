@@ -199,6 +199,29 @@
    color: #fff;
 }
 
+/*
+FOOTER
+*/
+
+#contFooter {
+	margin-top: 1em;
+	background-color: #262a34;
+}
+
+.titFooter {
+	color: #ffff;
+}
+
+.iconFooter {
+	/* text-decoration: black !important; */
+	color: #ffffff;
+	text-decoration-line: none !important;
+}
+
+.linkFooter {
+	text-decoration: none;
+	color: #212529;
+}
 
 
 /* --- MEDIAQUERIES --- */
@@ -252,4 +275,3 @@
       margin-right: 2%;
    }
 }
-
