@@ -1,0 +1,169 @@
+
+
+/* /////////// INICIO LOGIN  /////////////////////////*/
+*{
+  box-sizing: border-box;
+}
+  margin: 13% auto;
+  border: 1px solid ;
+  border-color: #555555;
+  padding: 30px;
+  width: 90%;
+  border-radius: 30px;
+
+
+}
+
+.btnComprar{
+  background-color: #333333 !important;
+}
+
+P{
+  font-size: 14PX;
+  line-height: 0.5;
+}
+
+/* /////////// FIN LOGIN  /////////////////////////*/
+
+/* ---------------------------------------------------------------------------*/
+
+/* /////////// INICIO CARRITO COMPRA  /////////////////////////*/
+body{
+  background-color: #f6f5f5;
+}
+.producto{
+  background-color: white;
+}
+
+.compra{
+  font-size: 14px;
+}
+.letraMediana{
+  font-size: 16px;
+}
+}
+.h5{
+  font-size: 12px;
+}
+.disponible{
+  font-size: 10px;
+}
+
+.recuadroPrecio{
+  border: 1px solid #FF5A00;
+}
+
+ .tarjeta{
+  background: rgba(51, 51, 51, 0.5);
+
+ }
+
+ .textoBlanco{
+   color: white;
+ }
+
+ .btn-primary{
+
+   background-color: #FF5A00 !important;
+ }
+ .pago{
+   height: 510px;
+
+ }
+
+ .fixed-top{
+   top: 57px;
+ }
+
+ @media only screen and (min-width: 400px) and (max-width: 768px) {
+
+.pago{
+position: static;
+}
+  }
+
+/* /////////// IFIN CARRITO COMPRA  /////////////////////////*/
+
+
+
+/*HEADER*/
+
+/*Barra de navegacion*/
+*{
+    box-sizing: border-box;
+ }
+ .navbar {
+    background-color: #F75E11;
+ }
+
+ .fondoSlider{
+    background-color: rgb(133, 133, 133);
+ }
+
+ .menu a {
+
+    text-decoration: none;
+    color: #f8f9fa;
+    margin-top: 1%;
+ }
+
+ .opciones {
+    flex: content;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .contenedorNombre {
+    padding: 0px !important;
+ }
+
+ #nombre {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: cornsilk;
+    margin-right: 2% !important;
+ }
+
+ /*LOGIN*/
+ .login {
+    padding: 0px !important;
+    display: block ruby;
+ }
+
+ div.login li {
+    list-style: none;
+ }
+
+ #menu{
+    padding: 0px;
+    margin-right: 10% !important;
+ }
+
+ #botonLogin {
+    width: 3rem;
+    height: 1rem;
+ }
+
+ @media (min-width: 988px) {
+    div.navbar-nav a.botonOp {
+       margin-right: 2%;
+    }
+ }
+
+ /* FOOTER */
+
+.divisor{
+    padding: 0px;
+    background-color: #F75E11;
+    height: 0.5rem;
+ }
+
+footer{
+   background-color: #222222 !important;
+}
+#suscribete{
+   color: #a4a4a4;
+}
+
+.op{
+   background-color:#a0a0a0 !important ;
+}
